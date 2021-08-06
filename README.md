@@ -1,9 +1,10 @@
-# (APPLICATION NAME)
-WK3_IP_Ryan_Mburu_Python
+# (WK3_IP_Ryan_Mburu_Python)
 
-Data Science Project that covers data mining on datasets provided by an Ivorian Company, MTN
+### Project Description
 
-Date : 06-08-2021
+This is a Data Science Project that covers data mining on datasets provided by an Ivorian Company, MTN
+
+### Date : 06-08-2021
 
 ## Names of Contributors :
 - Ryan Mburu 
